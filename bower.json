@@ -1,0 +1,31 @@
+{
+  "name": "kelvingobo.github.io",
+  "homepage": "https://github.com/kelvingobo/kelvingobo.github.io",
+  "authors": [
+    "ghackz <gobokel@gmail.com>"
+  ],
+  "description": "Kelvin Gobo Resume",
+  "main": "",
+  "keywords": [
+    "Kelvin",
+    "Resume",
+    "Gobo",
+    "CV",
+    "jobs",
+    "experience",
+    "skills",
+    "company"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "^1.3.0"
+  }
+}
